@@ -1,5 +1,7 @@
 # FirstGemMattH44
 
+https://badge.fury.io/rb/first_gem_matt_h44.png
+
 TODO: Write a gem description
 
 ## Installation
